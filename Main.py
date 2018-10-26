@@ -1,8 +1,10 @@
 # Frame
 """samplechanges"""
+
+reset()
 # Text
-# begin write text
 
  # Picture
 
  # Mark
+done()
